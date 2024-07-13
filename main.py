@@ -1,9 +1,6 @@
 
 ### IMPORT LIBRARIES ###
 
-from dotenv import load_dotenv
-import os
-
 from openai import OpenAI
 import json
 import streamlit as st
